@@ -1,4 +1,3 @@
- [![MasterHead](https://www.seekpng.com/png/detail/604-6045623_mobile-app-development-guide-for-dummies-mobile-application.png)
 
 <h1 align="center">Hi 👋, I'm Ceyhun ER</h1>
 <h3 align="center">A passionate mobile developer from Turkey</h3>
